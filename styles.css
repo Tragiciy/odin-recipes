@@ -1,0 +1,31 @@
+.body {
+    font-family: "Tahoma", sans-serif;
+    color: black;
+}
+
+.title {
+    text-align: center;
+    background-color: black;
+    color: wheat;
+    font-size: 38px;
+}
+
+.header {
+    text-align: left;
+    font-weight: 800px;
+    color: #21e4a3;
+}
+
+img {
+    height: auto;
+    width: 510px;
+}
+
+.list {
+    color: red;
+    text-align: right;
+}
+
+.list.numbers {
+    color: blueviolet;
+}
