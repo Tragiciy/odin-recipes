@@ -8,22 +8,43 @@
     background-color: black;
     color: wheat;
     font-size: 38px;
+    padding: 8px;
+    margin: 24px;
+}
+.main {
+    margin: 24px;
+}
+.recipes {
+    text-align: center;
+    font-size: 36px;
+    padding: auto;
+    list-style-position: inside;
+}
+
+span {
+    background-color: coral;
+    font-weight: bold;
+    font-size: 22px;
 }
 
 .header {
     text-align: left;
     font-weight: 800px;
     color: #21e4a3;
+    background-color: bisque;
+    padding: 16px 8px;
 }
 
 img {
+    display: block;
+    margin: auto;
     height: auto;
     width: 510px;
 }
 
 .list {
     color: red;
-    text-align: right;
+    text-align: left;
 }
 
 .list.numbers {
